@@ -12,5 +12,19 @@
       "linkedIn": "example.com",
       "insta": "example.com"
     }
+  ],
+  "skills": [
+    {
+      "image": "https://mdnhs.github.io/masum-json/1.webp"
+    },
+    {
+      "image": "https://mdnhs.github.io/masum-json/2.webp"
+    },
+    { "image": "https://mdnhs.github.io/masum-json/3.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/4.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/5.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/6.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/7.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/8.webp" }
   ]
 }
