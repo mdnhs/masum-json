@@ -1,15 +1,13 @@
-[
-  {
-    "name": "Md Masum",
-    "designation": "Data Engineer",
-    "profilePicture": "f",
-    "socials": [
-      {
-        "gitHub": "example.com",
-        "facebook": "example.com",
-        "linkedIn": "example.com",
-        "insta": "example.com"
-      }
-    ]
-  }
-]
+{
+  "name": "Md Masum",
+  "designation": "Data Engineer",
+  "profilePicture": "f",
+  "socials": [
+    {
+      "gitHub": "example.com",
+      "facebook": "example.com",
+      "linkedIn": "example.com",
+      "insta": "example.com"
+    }
+  ]
+}
