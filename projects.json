@@ -9,25 +9,29 @@
         "id": 1,
         "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 2,
         "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
         "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 3,
         "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 4,
         "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "video"
       }
     ]
   },
@@ -41,25 +45,29 @@
         "id": 1,
         "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 2,
         "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
         "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 3,
         "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 4,
         "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "video"
       }
     ]
   },
@@ -73,25 +81,29 @@
         "id": 1,
         "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 2,
         "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
         "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 3,
         "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 4,
         "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "video"
       }
     ]
   },
@@ -105,25 +117,29 @@
         "id": 1,
         "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 2,
         "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
         "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 3,
         "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "image"
       },
       {
         "id": 4,
         "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
         "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "size": "454-288"
+        "size": "454-288",
+        "type": "video"
       }
     ]
   }
