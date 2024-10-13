@@ -7,19 +7,23 @@
     "projectMedia": [
       {
         "mediaID": 1,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-1.webp"
+        "original": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-1.webp"
       },
       {
         "mediaID": 2,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-2.webp"
+        "original": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp"
       },
       {
         "mediaID": 3,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-3.webp"
+        "original": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-3.webp"
       },
       {
         "mediaID": 4,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/file.mp4"
+        "original": "https://mdnhs.github.io/masum-json/projects/file.mp4",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/file.mp4"
       }
     ]
   },
