@@ -15,16 +15,16 @@
   ],
   "skills": [
     {
-      "image": "https://mdnhs.github.io/masum-json/1.webp"
+      "image": "https://mdnhs.github.io/masum-json/skillLogo/1.webp"
     },
     {
-      "image": "https://mdnhs.github.io/masum-json/2.webp"
+      "image": "https://mdnhs.github.io/masum-json/skillLogo/2.webp"
     },
-    { "image": "https://mdnhs.github.io/masum-json/3.webp" },
-    { "image": "https://mdnhs.github.io/masum-json/4.webp" },
-    { "image": "https://mdnhs.github.io/masum-json/5.webp" },
-    { "image": "https://mdnhs.github.io/masum-json/6.webp" },
-    { "image": "https://mdnhs.github.io/masum-json/7.webp" },
-    { "image": "https://mdnhs.github.io/masum-json/8.webp" }
+    { "image": "https://mdnhs.github.io/masum-json/skillLogo/3.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/skillLogo/4.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/skillLogo/5.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/skillLogo/6.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/skillLogo/7.webp" },
+    { "image": "https://mdnhs.github.io/masum-json/skillLogo/8.webp" }
   ]
 }
