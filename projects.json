@@ -6,32 +6,28 @@
     "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
     "projectMedia": [
       {
-        "mediaID": 1,
-        "original": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
-        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
-        "originalHeight": "288px",
-        "originalWidth": "454px"
+        "id": 1,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 2,
-        "original": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "id": 2,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
         "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
-        "originalHeight": "288px",
-        "originalWidth": "454px"
+        "size": "454-288"
       },
       {
-        "mediaID": 3,
-        "original": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "originalHeight": "288px",
-        "originalWidth": "454px"
+        "id": 3,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 4,
-        "original": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
-        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
-        "originalHeight": "288px",
-        "originalWidth": "454px"
+        "id": 4,
+        "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       }
     ]
   },
@@ -42,20 +38,28 @@
     "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
     "projectMedia": [
       {
-        "mediaID": 1,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-1.webp"
+        "id": 1,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 2,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-2.webp"
+        "id": 2,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 3,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-3.webp"
+        "id": 3,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 4,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/file.mp4"
+        "id": 4,
+        "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       }
     ]
   },
@@ -66,20 +70,28 @@
     "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
     "projectMedia": [
       {
-        "mediaID": 1,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-1.webp"
+        "id": 1,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 2,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-2.webp"
+        "id": 2,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 3,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-3.webp"
+        "id": 3,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 4,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/file.mp4"
+        "id": 4,
+        "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       }
     ]
   },
@@ -90,20 +102,28 @@
     "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
     "projectMedia": [
       {
-        "mediaID": 1,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-1.webp"
+        "id": 1,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-1.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 2,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-2.webp"
+        "id": 2,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "thumbnail": "https://mdnhs.github.io/masum-json/projects/project-2.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 3,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/project-3.webp"
+        "id": 3,
+        "src": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       },
       {
-        "mediaID": 4,
-        "mediaLink": "https://mdnhs.github.io/masum-json/projects/file.mp4"
+        "id": 4,
+        "src": "https://youtu.be/bNZSA8TvQwU?si=hspxGDV4ndrroLNX",
+        "thumb": "https://mdnhs.github.io/masum-json/projects/project-3.webp",
+        "size": "454-288"
       }
     ]
   }
