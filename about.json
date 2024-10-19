@@ -8,8 +8,8 @@
   "socials": [
     {
       "gitHub": "https://github.com/masumcse22",
-      "facebook": "www.linkedin.com/in/dsmdmasum",
-      "linkedIn": "www.linkedin.com/in/dsmdmasum",
+      "facebook": "https://www.linkedin.com/in/dsmdmasum",
+      "linkedIn": "https://www.linkedin.com/in/dsmdmasum",
       "insta": "example.com"
     }
   ],
@@ -28,6 +28,5 @@
     { "image": "https://mdnhs.github.io/masum-json/skillLogo/8.webp" },
     { "image": "https://mdnhs.github.io/masum-json/skillLogo/9.png" },
     { "image": "https://mdnhs.github.io/masum-json/skillLogo/10.webp" }
-    
   ]
 }
