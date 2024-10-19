@@ -1,0 +1,37 @@
+[
+  {
+    "professionalSkillSet": [
+      {
+        "skillID": 1,
+        "skillTitle": "Programming Language/Software:",
+        "skillDetails": "SQL (Intermediate) Python (Pandas, Numpy, Matplotlib, Scikit-learn R (Basic)"
+      },
+      {
+        "skillID": 2,
+        "skillTitle": "Machine Learning Algorithm:",
+        "skillDetails": "Linear Regression, Logistic Regression, Decision Trees, Naive Bayes, KNN, K-means, Random Forests, Boosting with AdaBoost"
+      },
+      {
+        "skillID": 2,
+        "skillTitle": "Soft Skills:",
+        "skillDetails": "Leadership, Adaptability, Teamwork, Excellent verbal, and written communication"
+      }
+    ]
+  },
+  {
+    "languages": [
+      {
+        "languageID": 1,
+        "languageName": "Bengali (native)"
+      },
+      {
+        "languageID": 2,
+        "languageName": "English (proficient)"
+      },
+      {
+        "languageID": 3,
+        "languageName": "Hindi (Basic)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "educationID": 1,
+    "educationTimeline": "2019 - 2023",
+    "educationUniversity": "City University",
+    "educationSubject": "BSC in CSE",
+    "educationLocation": "Dhaka, Bangladesh",
+    "educationDetails": "Cumulative GPA: ---/4.0 Relevant Coursework: Data Science with Python, Machine Learning, Big Data, Data Mining, Time Series Analysis and Forecasting, Multivariate Analysis, Regression Analysis, Categorical Data Analysis, Applied Data Analysis, Statistical Methods, Sampling Methodology, Research Methodology,  Probability & Probability Distributions, Statistical Inference, Applied Statistics,"
+  },
+  {
+    "educationID": 2,
+    "educationTimeline": "2016 - 2019",
+    "educationUniversity": "City College",
+    "educationSubject": "HSC",
+    "educationLocation": "Dhaka, Bangladesh",
+    "educationDetails": "Cumulative GPA: ---/4.0 Relevant Coursework: Data Science with Python, Machine Learning, Big Data, Data Mining, Time Series Analysis and Forecasting, Multivariate Analysis, Regression Analysis, Categorical Data Analysis, Applied Data Analysis, Statistical Methods, Sampling Methodology, Research Methodology,  Probability & Probability Distributions, Statistical Inference, Applied Statistics,"
+  },
+  {
+    "educationID": 2,
+    "educationTimeline": "2015",
+    "educationUniversity": "City School",
+    "educationSubject": "SSC",
+    "educationLocation": "Dhaka, Bangladesh",
+    "educationDetails": "Cumulative GPA: ---/4.0 Relevant Coursework: Data Science with Python, Machine Learning, Big Data, Data Mining, Time Series Analysis and Forecasting, Multivariate Analysis, Regression Analysis, Categorical Data Analysis, Applied Data Analysis, Statistical Methods, Sampling Methodology, Research Methodology,  Probability & Probability Distributions, Statistical Inference, Applied Statistics,"
+  }
+]
