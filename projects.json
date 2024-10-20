@@ -15,7 +15,7 @@
     "projectID": 2,
     "projectCategory": "Excel",
     "projectTitle": "Project-1:  Super  Store  Sales  Dashboard",
-    "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
+    "projectDetails": "<p><strong>This is a 4 years of a Super store sales data.</strong></p><p><strong>Used Tools:</strong></p><p>i) Power Query. ii) Merge. iii) Data cleaning.</p><p>iv) Modeling. v) Custom Column.</p><p>vi) Conditional Column. vii) Pivot Table</p><p>viii) Math Function. ix) Different Charts.</p><p><br></p><p>Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.</p><p><br></p>",
     "projectPhoto": [
       "https://mdnhs.github.io/masum-json/projects/project-1.webp",
       "https://mdnhs.github.io/masum-json/projects/project-2.webp",
