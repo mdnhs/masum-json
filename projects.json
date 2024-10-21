@@ -25,9 +25,9 @@
   },
   {
     "projectID": 3,
-    "projectCategory": "Excel",
-    "projectTitle": "Project-1:  Super  Store  Sales  Dashboard",
-    "projectDetails": "<h2><strong>This is a&nbsp;Dummy HR datasets.</strong></h2><h3><strong>Task perform:</strong></h3><ul><li><strong>Clean Data</strong></li><li><strong>Pivot table analyze</strong></li><li><strong>Pivot Chart</strong></li><li><strong>KPI</strong></li><li><strong>Dasboard Making</strong></li></ul><p><br></p>",
+    "projectCategory": "Machine Learning",
+    "projectTitle": "Project-3:  Heart Disease Prediction Using Machine Learning ",
+    "projectDetails": "<p><strong>❤️ Heart Disease Prediction Using Machine Learning</strong>&nbsp;</p><p>Developed a machine learning model to predict heart disease by analyzing patient health data. The model leverages advanced algorithms to deliver accurate predictions, aiding healthcare providers in early diagnosis and treatment planning.</p><p><br></p><p><strong>Key Features</strong>:&nbsp;&nbsp;</p><p>-<strong>⚙️ Predictive Modeling</strong>: Utilized machine learning algorithms to analyze key health indicators.&nbsp;&nbsp;</p><p>- <strong>📊 Data-Driven Insights</strong>: Processed patient data to identify risk factors and predict heart disease.&nbsp;&nbsp;</p><p>- <strong>🧠 Healthcare Impact</strong>: Helps in early diagnosis, improving patient outcomes and healthcare efficiency.</p><p><br></p><p>This project aims to support medical professionals with accurate, data-driven decision-making tools.</p><p><br></p>",
     "projectPhoto": [
       "https://mdnhs.github.io/masum-json/projects/project-1.webp",
       "https://mdnhs.github.io/masum-json/projects/project-2.webp",
@@ -37,9 +37,9 @@
   },
   {
     "projectID": 4,
-    "projectCategory": "Excel",
-    "projectTitle": "Project-1:  Super  Store  Sales  Dashboard",
-    "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
+    "projectCategory": "Machine Learning",
+    "projectTitle": "Project-4:  Drug Addiction & Health Condition Prediction Using Machine Learning",
+    "projectDetails": "<p><strong>💊 Drug Addiction &amp; Health Condition Prediction Using Machine Learning</strong></p><p>This project employs machine learning techniques to predict drug addiction and assess overall health conditions by analyzing patient behavioral and medical data. The model provides insights to assist healthcare professionals in intervention and treatment planning.</p><p><br></p><p><strong>Key Features:&nbsp;&nbsp;</strong></p><p><strong>- ⚙️ Predictive Analytics:</strong> Utilized machine learning algorithms to identify patterns in health and addiction behaviors.&nbsp;&nbsp;</p><p><strong>- 📊 Comprehensive Data Analysis:</strong> Analyzed a range of medical and behavioral data for accurate predictions.&nbsp;&nbsp;</p><p><strong>- 🧠 Healthcare Application:</strong> Supports early intervention and tailored treatment approaches for at-risk individuals.</p><p><br></p><p>This solution empowers healthcare providers to improve patient care through data-driven insights.</p><p><br></p>",
     "projectPhoto": [
       "https://mdnhs.github.io/masum-json/projects/project-1.webp",
       "https://mdnhs.github.io/masum-json/projects/project-2.webp",
