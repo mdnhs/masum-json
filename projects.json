@@ -70,5 +70,17 @@
       "https://mdnhs.github.io/masum-json/projects/sm_m_2.png"
     ],
     "projectVideo": ["https://mdnhs.github.io/masum-json/projects/file.mp4"]
+  },
+  {
+    "projectID": 7,
+    "projectCategory": "Power BI",
+    "projectTitle": "Project-2:  Airbnb Data Analysis Dashboard 🏠📊",
+    "projectDetails": "This Power BI dashboard provides insights into Airbnb data from 9 European cities, showcasing key metrics like total revenue, average room price, guest satisfaction, cleanliness ratings, and room distribution. Key features include interactive slicers, bar charts for price analysis, treemaps for room distribution, and doughnut charts for attraction and restaurant indices. Recommendations highlight factors impacting pricing and guest satisfaction, making it a valuable tool for hospitality market analysis.",
+    "projectPhoto": [
+      "https://mdnhs.github.io/masum-json/projects/airbnb-1.png",
+      "https://mdnhs.github.io/masum-json/projects/airbnd-2.png",
+      "https://mdnhs.github.io/masum-json/projects/airbnb-3.png"
+    ],
+    "projectVideo": ["https://mdnhs.github.io/masum-json/projects/file.mp4"]
   }
 ]
