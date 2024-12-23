@@ -62,14 +62,17 @@
   {
     "projectID": 6,
     "projectCategory": "Power BI",
-    "projectTitle": "Project-1:   Dashboard",
-    "projectDetails": "This is a 4 years of a Super store sales data. Used Tools: i) Power Query. ii) Merge. iii) Data cleaning. iv) Modeling. v) Custom Column. vi) Conditional Column. vii) Pivot Table viii) Math Function. ix) Different Charts. Firstly I take the data into power query of excel, Where I clean the data, do data modeling, use merge queries, append queries and load the data as a table format. Then I use some functions and most of the work is done by Pivot Table. Its a two sheet dashboard. First page for Sales Analysis and the other one for Product Analysis.",
+    "projectTitle": "Project-1: 📊 Advanced Retail Customer Analysis  ",
+    "projectDetails": "📊 Advanced Retail Customer Analysis  This Power BI project delivers insights into customer segmentation, purchasing patterns, retention trends, and sales performance. It empowers stakeholders with data-driven decisions to enhance customer experience and profitability.  👉 **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjI1ZWU3ODgtNTcxNC00OTVkLTlmMmQtZjZkODlmYjc1MTcyIiwidCI6IjI2MzRmNWJhLWE5NTItNDNlMy05NmI5LTAwODZiOGFhODExNiIsImMiOjEwfQ%3D%3D)** ",
     "projectPhoto": [
-      "https://mdnhs.github.io/masum-json/projects/sm_d_1 (1).png",
-      "https://mdnhs.github.io/masum-json/projects/sm_data_2.png",
-      "https://mdnhs.github.io/masum-json/projects/sm_m_2.png"
-    ],
-    "projectVideo": ["https://mdnhs.github.io/masum-json/projects/file.mp4"]
+      "https://mdnhs.github.io/masum-json/projects/ARCA-1.png",
+      "https://mdnhs.github.io/masum-json/projects/ARCA-2.png",
+      "https://mdnhs.github.io/masum-json/projects/ARCA-3.1.png",
+      "https://mdnhs.github.io/masum-json/projects/ARCA-3.2.png",
+      "https://mdnhs.github.io/masum-json/projects/ARCA-3.3.png",
+      "https://mdnhs.github.io/masum-json/projects/ARCA-3.png",
+      "https://mdnhs.github.io/masum-json/projects/ARCA-4.png"
+    ]
   },
   {
     "projectID": 7,
