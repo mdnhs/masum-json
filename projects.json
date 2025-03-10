@@ -110,5 +110,12 @@
       "https://mdnhs.github.io/masum-json/projects/sm_m_2.png"
     ],
     "projectVideo": ["https://mdnhs.github.io/masum-json/projects/file.mp4"]
+  },
+  {
+    "projectID": 10,
+    "projectCategory": "SQL",
+    "projectTitle": "Project-1: 🚀 Transforming Customer Analytics with RFM Segmentation! 📊",
+    "projectDetails": "Just wrapped up an exciting project on RFM (Recency, Frequency, Monetary) Segmentation to decode customer behavior and supercharge data-driven decisions! 💡",
+    "projectVideo": ["https://mdnhs.github.io/masum-json/projects/SQL_1.mp4"]
   }
 ]
